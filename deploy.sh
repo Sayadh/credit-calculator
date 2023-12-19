@@ -5,5 +5,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f https://github.com/Sayadh/credit-calculator.git master:gh-pages
+git push -f https://github.com/Sayadh/credit-calculator.git main:gh-pages
 cd -
